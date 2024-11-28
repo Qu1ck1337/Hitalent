@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Task",
+        "description": "",
+        "category": "",
+        "due_date": "2000-01-01",
+        "priority": "низкий",
+        "status": "Не выполнена"
+    }
+]
